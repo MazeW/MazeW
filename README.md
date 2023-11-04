@@ -1,3 +1,3 @@
 ### Hi
 
-![lastfm](https://poo.maze.workers.dev?nocache)
+![lastfm](https://poo.maze.workers.dev?no)
